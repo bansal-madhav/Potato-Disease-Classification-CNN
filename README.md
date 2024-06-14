@@ -8,7 +8,7 @@ This data contains three datasets that contains photos of potato leaves. One dat
 Kaggle - https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 Technologies Used->
-Python Pandas Jupyter TensorFlow FastAPI CNN 
+Python, Pandas, Jupyter, TensorFlow, FastAPI, CNN. 
 
 ![Screenshot 2024-06-15 040104](https://github.com/bansal-madhav/Potato-Disease-Classification-CNN/assets/153558335/3e5bfa0c-8eb5-44c3-a9cc-6f548b1c1b4d)
 
